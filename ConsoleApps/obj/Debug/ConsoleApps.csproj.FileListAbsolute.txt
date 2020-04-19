@@ -1,0 +1,28 @@
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\bin\Debug\ConsoleApps.exe
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\bin\Debug\ConsoleApps.pdb
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\bin\Debug\TestNinja.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\bin\Debug\EntityFramework.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\bin\Debug\TestNinja.pdb
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\bin\Debug\TestNinja.dll.config
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\bin\Debug\EntityFramework.xml
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\obj\Debug\ConsoleApps.csprojAssemblyReference.cache
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\obj\Debug\ConsoleApps.csproj.CoreCompileInputs.cache
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\obj\Debug\ConsoleApps.csproj.CopyComplete
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\obj\Debug\ConsoleApps.exe
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\ConsoleApps\obj\Debug\ConsoleApps.pdb
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\bin\Debug\ConsoleApps.exe
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\bin\Debug\ConsoleApps.pdb
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\bin\Debug\TestNinja.dll
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\bin\Debug\EntityFramework.dll
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\bin\Debug\TestNinja.pdb
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\bin\Debug\TestNinja.dll.config
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\bin\Debug\EntityFramework.xml
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\obj\Debug\ConsoleApps.csprojAssemblyReference.cache
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\obj\Debug\ConsoleApps.csproj.CoreCompileInputs.cache
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\obj\Debug\ConsoleApps.csproj.CopyComplete
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\obj\Debug\ConsoleApps.exe
+C:\GitHub\UnitTest\TestNinja\ConsoleApps\obj\Debug\ConsoleApps.pdb

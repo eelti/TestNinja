@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b613b956-d289-41f7-8ac7-d21d5a32b67e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel-TPP-SD-173.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace-TPP-SD-173-2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace-TPP-SD-173.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/ConsoleApps.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/bin/Debug/ConsoleApps.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/bin/Debug/ConsoleApps.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/bin/Debug/EntityFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/bin/Debug/EntityFramework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/bin/Debug/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/bin/Debug/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/bin/Debug/TestNinja.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/bin/Debug/TestNinja.dll.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/bin/Debug/TestNinja.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/bin/Debug/download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/obj/Debug/ConsoleApps.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/obj/Debug/ConsoleApps.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/obj/Debug/ConsoleApps.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/obj/Debug/ConsoleApps.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/obj/Debug/ConsoleApps.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApps/obj/Debug/ConsoleApps.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/InstallerHelperTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/MockingTest/BookingHelperTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/MockingTest/EmployeeControllerTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/MockingTest/VideoServiceTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/StackTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/TestNinja.UnitTests-TPP-SD-173.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/TestNinja.UnitTests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/EntityFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/EntityFramework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Moq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Moq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Ninject.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Ninject.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/System.Threading.Tasks.Extensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.UnitTests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.UnitTests.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.dll.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/packages.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/FileDownloader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/DateHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/PhoneNumber.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/Reservation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/BookingRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/HousekeeperHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/Product.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/TestNinja.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/EntityFramework.SqlServer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/EntityFramework.SqlServer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/EntityFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/EntityFramework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.dll.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/packages.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/ASL - Apache Software Foundation License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/Castle.Core.4.2.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/lib/net35/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/lib/net35/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/lib/net40/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/lib/net40/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/lib/net45/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/lib/net45/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/lib/netstandard1.3/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/lib/netstandard1.3/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.2.1/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/ASL - Apache Software Foundation License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/Castle.Core.4.4.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/lib/net35/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/lib/net35/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/lib/net40/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/lib/net40/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/lib/net45/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/lib/net45/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/lib/netstandard1.3/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/lib/netstandard1.3/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/lib/netstandard1.5/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/lib/netstandard1.5/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Castle.Core.4.4.0/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/EntityFramework.6.2.0-beta1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/content/net40/App.config.transform" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/content/net40/Web.config.transform" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/lib/net40/EntityFramework.SqlServer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/lib/net40/EntityFramework.SqlServer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/lib/net40/EntityFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/lib/net40/EntityFramework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/lib/net45/EntityFramework.SqlServer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/lib/net45/EntityFramework.SqlServer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/lib/net45/EntityFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/lib/net45/EntityFramework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/tools/EntityFramework.PowerShell.Utility.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/tools/EntityFramework.PowerShell.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/tools/EntityFramework.psd1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/tools/EntityFramework.psm1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/tools/about_EntityFramework.help.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/tools/init.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/tools/install.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/EntityFramework.6.2.0-beta1/tools/migrate.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.13.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.13.1/Moq.4.13.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.13.1/lib/net45/Moq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.13.1/lib/net45/Moq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.13.1/lib/netstandard2.0/Moq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.13.1/lib/netstandard2.0/Moq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.7.142/Moq.4.7.142.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.7.142/lib/net45/Moq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.7.142/lib/net45/Moq.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.7.142/lib/net45/Moq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.7.142/lib/netstandard1.3/Moq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.7.142/lib/netstandard1.3/Moq.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Moq.4.7.142/lib/netstandard1.3/Moq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/CHANGES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NOTICES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NUnit.3.5.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/NUnit.System.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/Newtonsoft.Json.10.0.3.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net20/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net20/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net35/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net35/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net40/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net40/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net45/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net45/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/netstandard1.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/netstandard1.0/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/netstandard1.3/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/netstandard1.3/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/tools/install.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Ninject.4.0.0-beta-0134/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Ninject.4.0.0-beta-0134/Ninject.4.0.0-beta-0134.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Ninject.4.0.0-beta-0134/lib/net45/Ninject.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Ninject.4.0.0-beta-0134/lib/net45/Ninject.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Ninject.4.0.0-beta-0134/lib/netstandard1.3/Ninject.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Ninject.4.0.0-beta-0134/lib/netstandard1.3/Ninject.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Ninject.4.0.0-beta-0134/lib/netstandard1.5/Ninject.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Ninject.4.0.0-beta-0134/lib/netstandard1.5/Ninject.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/System.Runtime.CompilerServices.Unsafe.4.5.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/lib/uap10.0.16300/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/ref/uap10.0.16300/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.0/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/System.Threading.Tasks.Extensions.4.5.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/MonoAndroid10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/MonoTouch10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/netcoreapp2.1/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/netstandard1.0/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/netstandard1.0/System.Threading.Tasks.Extensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/netstandard2.0/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/netstandard2.0/System.Threading.Tasks.Extensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/xamarinios10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/xamarinmac20/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/xamarintvos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/lib/xamarinwatchos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/MonoAndroid10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/MonoTouch10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/netcoreapp2.1/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/netstandard1.0/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/netstandard1.0/System.Threading.Tasks.Extensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/netstandard2.0/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/netstandard2.0/System.Threading.Tasks.Extensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/xamarinios10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/xamarinmac20/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/xamarintvos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/ref/xamarinwatchos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Threading.Tasks.Extensions.4.5.1/version.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MockingTest/VideoServiceTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Reservation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/FileDownloader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/StackTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApps/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/InstallerHelperTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MockingTest/EmployeeControllerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MockingTest/BookingHelperTest.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/Program.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/VideoServiceTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/FileDownloader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/InstallerHelperTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/OrderServiceTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/EmployeeControllerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/Product.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/ProductTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/BookingHelperTests.cs" />
+        <option value="$PROJECT_DIR$/../../../../../Source Code/Mocking/BookingHelper.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/StatementGenerator.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/HousekeeperHelper.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmailSender.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/HouseKeeperServiceTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/HouseKeeperService.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Tests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTest.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTest.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/StackTest.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/VideoServiceTest.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/MockingTest/VideoServiceTest.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FileDownloader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/FileDownloader.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApps/Program.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/InstallerHelperTest.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/MockingTest/EmployeeControllerTest.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/BookingRepository.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/MockingTest/BookingHelperTest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aT2twlq6iL2eq6p4HbJ6pjAEWV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApps/bin/Debug/ConsoleApps.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApps/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApps/ConsoleApps.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b613b956-d289-41f7-8ac7-d21d5a32b67e" name="Default" comment="" />
+      <created>1507227824194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507227824194</updated>
+      <workItem from="1507227825406" duration="23277000" />
+      <workItem from="1508952072060" duration="74000" />
+      <workItem from="1586745486247" duration="2549000" />
+      <workItem from="1586887804912" duration="11477000" />
+      <workItem from="1587127016004" duration="6094000" />
+      <workItem from="1587169079232" duration="664000" />
+      <workItem from="1587213379599" duration="18890000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1507240218760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507240218760</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1507240250446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507240250446</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="742" y="267" key="#Default" timestamp="1587300245248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="267" key="#Default/0.0.1920.1040@0.0.1920.1040" timestamp="1587300245248" />
+    <state x="989" y="360" key="#Default/363.1440.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1586894483789" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1587339018888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587339018888" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1587339018888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587339018888" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1587339018888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587339018888" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1587339018888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587339018888" />
+    <state x="654" y="321" key="Rider.ProjectTemplateDialog.Size" timestamp="1587300111877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="321" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1587300111877" />
+    <state x="872" y="432" key="Rider.ProjectTemplateDialog.Size/363.1440.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1586745703921" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1587214581242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587214581242" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587326366816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587326366816" />
+  </component>
+</project>

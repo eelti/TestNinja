@@ -1,0 +1,68 @@
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.UnitTests.dll
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.UnitTests.pdb
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.dll
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.pdb
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll.config
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.xml
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csprojAssemblyReference.cache
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CoreCompileInputs.cache
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CopyComplete
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
+C:\OneDrive\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csprojAssemblyReference.cache
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.UnitTests.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.UnitTests.pdb
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Ninject.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.pdb
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll.config
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.xml
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Ninject.xml
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eriled\OneDrive - PRODUITS DE PISCINE TRENDIUM POOL\Learning\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CopyComplete
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.UnitTests.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.UnitTests.pdb
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Ninject.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.pdb
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll.config
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.xml
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.xml
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Ninject.xml
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.xml
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csprojAssemblyReference.cache
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CoreCompileInputs.cache
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CopyComplete
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
+C:\GitHub\UnitTest\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
