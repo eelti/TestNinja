@@ -1,4 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2f8b3bfe_002D26ca_002D49e4_002D9c0f_002D27ca3cdebd75/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BookingHelperTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E3B13FEA-3D33-44D8-B97C-286AA1242BFA::.NETFramework,Version=v4.8::TestNinja.UnitTests.MockingTest.BookingHelperTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=44a747f4_002Db569_002D4b7e_002D9e16_002D0bc1e6e539da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUnprocessedVideosAsCsv_WhenCall_ReturnStringCommaSeparetedIdUnprocess" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Or&gt;&#xD;
     &lt;Or&gt;&#xD;

@@ -44,7 +44,7 @@ namespace TestNinja.UnitTests.MockingTest
             Assert.That(result, Is.Empty);
         }
 
-        /*[Test]
+        [Test]
         public void  OverlappingBookingsExist_BookingStartAfterExistingBooking_ReturnEmptyString()
         {
             var result = BookingHelper.OverlappingBookingsExist(new Booking()
@@ -56,7 +56,7 @@ namespace TestNinja.UnitTests.MockingTest
             }, _repository.Object);
 
             Assert.That(result,Is.Empty);
-        }*/
+        }
 
         private DateTime Before(DateTime dateTime, int days = 1)
         {
