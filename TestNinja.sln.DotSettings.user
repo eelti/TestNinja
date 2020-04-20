@@ -15,7 +15,12 @@
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c9688838_002De927_002D4f19_002D9f59_002D50af6bba7a6e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VideoServiceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::E3B13FEA-3D33-44D8-B97C-286AA1242BFA::.NETFramework,Version=v4.8::TestNinja.UnitTests.VideoServiceTest&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::E3B13FEA-3D33-44D8-B97C-286AA1242BFA::.NETFramework,Version=v4.8::TestNinja.UnitTests.MockingTest.BookingHelperTest.OverlappingBookingsExist_BookingStartAfterExistingBooking_ReturnEmptyString&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::E3B13FEA-3D33-44D8-B97C-286AA1242BFA::.NETFramework,Version=v4.8::TestNinja.UnitTests.MockingTest.BookingHelperTest.OverlappingBookingsExist_BookingStartsAndFinishBeforeAExistingBooking_ReturnEmptyString&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
